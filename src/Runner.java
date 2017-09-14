@@ -37,7 +37,7 @@ public class Runner {
        if(talking==true){
            if(hour<7 || hour>20){
                return true;
-           }  //
+           }
        }
        return false;
     }
